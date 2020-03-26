@@ -1,2 +1,4 @@
+from src.utils import print_aa
+
 if __name__ == "__main__":
-    print("Auto")
+    print_aa()
